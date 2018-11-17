@@ -1,0 +1,10 @@
+RECURSIVE WINDOW
+PM-10:
+Optimal number of neighbors = 117
+Corresponding RMSE = 7.3064
+
+PM-25:
+Optimal number of neighbors = 4
+Corresponding RMSE = 7.1048
+Time Taken to complete for all values of K[1-10000]= 1046.202 seconds
+

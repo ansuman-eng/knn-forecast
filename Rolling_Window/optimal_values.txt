@@ -1,0 +1,10 @@
+ROLLING WINDOW
+PM-10:
+Optimal number of neighbors = 118
+Corresponding RMSE = 7.3053
+
+PM-10:
+Optimal number of neighbors = 4
+Corresponding RMSE = 7.1132
+Time Taken to complete for all values of K[1-10000]= 957.25 seconds
+
